@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autotip",
+  "name": "HypixelAutotipFixed",
+  "description": "Autotipper for Hypixel. Type /autotip in-game to get started.\n修复版本: \n1. 禁用自动更新\n2. 因为autotip官网暴毙,绕开autotip官网检测机制",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://autotip.pro/",
+  "updateUrl": "https://link.nutscity.tk/hypautotipupdate",
+  "authorList": ["Sk1er","2Pi", "chenmy1903"],
+  "credits": "Sk1er & 2Pi",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
